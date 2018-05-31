@@ -1,0 +1,3 @@
+### Kurtland Chua
+
+# I am a fourth-year undergraduate student at UC Berkeley, pursuing a degree in Electrical Engineering and Computer Sciences. I currently work in Prof. Sergey Levine's lab as an undergraduate researcher, working on model-based reinforcement learning with my mentors Roberto Calandra and Rowan McCallister.
