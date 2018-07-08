@@ -1,10 +1,13 @@
 ### About Me
 
+<img style="float: right;" width="100" src="images/profile.png"/>
+
 I am an undergraduate student at UC Berkeley entering my fourth year, pursuing a degree in Electrical Engineering and Computer Sciences.
 
 I currently work in Prof. Sergey Levine's lab as an undergraduate researcher, working on model-based reinforcement learning together with my mentors Roberto Calandra and Rowan McAllister.
 
 My interests include reinforcement learning, machine learning, as well as pure mathematics.
+
 
 ### Publications
 
