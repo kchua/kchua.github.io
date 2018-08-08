@@ -8,13 +8,16 @@ I currently work in Prof. Sergey Levine's lab as an undergraduate researcher, wo
 
 My interests include reinforcement learning, machine learning, as well as pure mathematics.
 
+You may reach me at kchua (at) berkeley (dot) edu.
+
 
 ### Publications
 
 * [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114).  
   [arXiv](https://arxiv.org/abs/1805.12114) | [website](https://sites.google.com/view/drl-in-a-handful-of-trials/home)  
   **Kurtland Chua**, Roberto Calandra, Rowan McAllister, Sergey Levine.  
-  *ICML 2018 Workshop on Planning and Learning (PAL-18)*.  
+  *ICML 2018 Workshop on Planning and Learning (Oral presentation)*.  
+  *ICML 2018 Workshop on Prediction and Generative Modeling in Reinforcement Learning.*
 
 ### Honors
 
