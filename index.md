@@ -2,11 +2,13 @@
 
 <img style="float: right;" width="250" src="images/profile.jpg"/>
 
-I am an undergraduate student at UC Berkeley entering my fourth year, pursuing a degree in Electrical Engineering and Computer Sciences.
+I am a fourth-year undergraduate student at UC Berkeley, pursuing a degree in Electrical Engineering and Computer Sciences.
 
 I currently work in Prof. Sergey Levine's lab as an undergraduate researcher, working on model-based reinforcement learning together with my mentors Roberto Calandra and Rowan McAllister.
 
 My interests include reinforcement learning, machine learning, as well as pure mathematics.
+
+This semester, I am a TA for EECS 126, an upper-division course on probability and random processes.
 
 You may reach me at kchua (at) berkeley (dot) edu.
 
@@ -14,7 +16,7 @@ You may reach me at kchua (at) berkeley (dot) edu.
 ### Publications
 
 * [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114).  
-  [arXiv](https://arxiv.org/abs/1805.12114) | [website](https://sites.google.com/view/drl-in-a-handful-of-trials/home)  
+  [arXiv](https://arxiv.org/abs/1805.12114) | [website](https://sites.google.com/view/drl-in-a-handful-of-trials/home)  | [code](https://github.com/kchua/handful-of-trials)  
   **Kurtland Chua**, Roberto Calandra, Rowan McAllister, Sergey Levine.  
   *ICML 2018 Workshop on Planning and Learning (Oral presentation)*.  
   *ICML 2018 Workshop on Prediction and Generative Modeling in Reinforcement Learning.*
