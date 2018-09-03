@@ -1,4 +1,4 @@
-### About Me
+# About Me
 
 <img style="float: right;" width="250" src="images/profile.jpg"/>
 
@@ -13,7 +13,7 @@ This semester, I am a TA for EECS 126, an upper-division course on probability a
 You may reach me at kchua (at) berkeley (dot) edu.
 
 
-### Publications
+# Publications
 
 * [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114).  
   [arXiv](https://arxiv.org/abs/1805.12114) | [website](https://sites.google.com/view/drl-in-a-handful-of-trials/home)  | [code](https://github.com/kchua/handful-of-trials)  
@@ -21,7 +21,7 @@ You may reach me at kchua (at) berkeley (dot) edu.
   *ICML 2018 Workshop on Planning and Learning (Oral presentation)*.  
   *ICML 2018 Workshop on Prediction and Generative Modeling in Reinforcement Learning.*
 
-### Honors
+# Honors
 
 *Phi Beta Kappa* (2018). Inducted as a junior.  
 *Dean's Honors List* for Fall '15, Spring 16', Fall '16, Spring '17, Spring '18.  
