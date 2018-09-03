@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: Kurtland Chua
+plugins:
+  - jekyll-seo-tag
