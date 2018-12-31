@@ -16,9 +16,10 @@ We begin by defining the additional structure on a general smooth manifold that 
 
 **Definition.** A *Riemannian metric* on a smooth manifold $M$ is a smooth $2$-tensor field $g \in \mathcal{T}^2(M)$ that is symmetric and positive-definite.
 
-Observe that the Riemannian metric defines an inner product on every tangent space of the manifold.
 We refer to $(M, g)$ as a *Riemannian manifold*.
-One may ask if Riemannian metrics even exist.
+Observe that the Riemannian metric defines an inner product on every tangent space of the manifold.
+
+One may ask if Riemannian metrics even exist (of course, beyond the natural Riemannian metric on Euclidean space).
 The following proposition demonstrates, in fact, that every smooth manifold can be endowed with a Riemannian metric.
 
 **Proposition.** *A Riemannian structure can be imposed on every smooth manifold $M$*.
