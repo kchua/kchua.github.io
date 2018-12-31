@@ -3,9 +3,8 @@
   line-height: 4em;
 }
 
-.project-name {
-  margin-left: 2.5em;
-  margin-right: 2.5em;
+.main-content {
+  max-width: initial;
 }
 
 /* .main-content {
