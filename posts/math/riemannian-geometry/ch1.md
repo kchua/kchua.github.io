@@ -6,18 +6,11 @@ math: true
 
 ## Definitions
 
-Testing math:
-
-$$g_p = F_i \mathrm{d}x^i \otimes \mathrm{d}x^i$$
+<div class=definition>
+  A *Riemannian metric* on a smooth manifold $M$ is a smooth $2$-tensor field $g \in \mathcal{T}^2(M)$ that is symmetric and positive-definite.
+</div>
 
 ## Examples
 
-$$f(z) = \frac{1}{2\pi i}\int_{\Gamma_{r}(z)}{\frac{f(t)}{t - z} \ \mathrm{d}t}$$
 
 ## Constructions
-
-$$f(z) = \frac{1}{2\pi i}\int_{\Gamma_{r}(z)}{\frac{f(t)}{t - z} \ \mathrm{d}t}$$
-
-$$f(z) = \frac{1}{2\pi i}\int_{\Gamma_{r}(z)}{\frac{f(t)}{t - z} \ \mathrm{d}t}$$
-
-$$f(z) = \frac{1}{2\pi i}\int_{\Gamma_{r}(z)}{\frac{f(t)}{t - z} \ \mathrm{d}t}$$
