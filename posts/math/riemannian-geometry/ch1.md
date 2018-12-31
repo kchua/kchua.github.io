@@ -31,7 +31,7 @@ $$g_p = F_{ij}\mathrm{d}x^i \otimes \mathrm{d}x^j,$$
 where $(F_{ij})$ is a positive-definite matrix.
 With this choice, $g_p$ is symmetric and positive-definite.
 
-Now, observe that since the $\left\{U_p\right\}$ form an open cover of $M$, we can find a partition of unity $\left\{\psi_p\right\}$ subordinate to the cover.
+Now, observe that since the $\left\\{U_p\right\\}$ form an open cover of $M$, we can find a partition of unity $\left\\{\psi_p\right\\}$ subordinate to the cover.
 Since the support of any $\psi_p$ is contained in $U_p$, $\psi_pg_p$ is a smooth $2$-field on all of $M$, taking $g_p$ to be zero outside $U_p$.
 Then, define $g_p$ as
 
