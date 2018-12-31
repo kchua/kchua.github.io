@@ -18,6 +18,7 @@ We begin by defining the additional structure on a general smooth manifold that 
 
 We refer to $(M, g)$ as a *Riemannian manifold*.
 Observe that the Riemannian metric defines an inner product on every tangent space of the manifold.
+Having this notion of an inner product allows us to define familiar concepts such as norms and angles for each tangent space.
 
 One may ask if Riemannian metrics even exist (of course, beyond the natural Riemannian metric on Euclidean space).
 The following proposition demonstrates, in fact, that every smooth manifold can be endowed with a Riemannian metric.
@@ -41,3 +42,8 @@ $$g = \sum_{p \in M}{\psi_pg_p}.$$
 This is a well-defined sum throughout the manifold since the set of supports is locally finite, and furthermore, $g$ is positive-definite and symmetric since every $g_p$ has the same property.
 
 Thus, $g$ is a Riemannian metric, and $(M, g)$ is a Riemannian manifold.
+
+$$\tag*{$\blacksquare$}$$
+
+If we have two Riemannian manifolds $(M, g), (\tilde{M}, \tilde{g})$, as well as a diffeomorphism $\phi: M \to \tilde{M}$, then we say that $\phi$ is an *isometry* if $\phi^*\tilde{g} = g$.
+Riemannian geometry is concerned with the study of properties that are preserved under these isometries.
