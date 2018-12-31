@@ -1,0 +1,10 @@
+.page-header {
+  text-align: left;
+  line-height: 1.1em;
+}
+
+.main-content {
+  @include large {
+    padding: 2rem 0rem;
+  }
+}
