@@ -12,7 +12,7 @@ With that, let's get right to it!
 
 ## Definitions
 
-We begin by defining the additional structure on a general smooth manifold that we will be concerned with throughout.
+We begin by defining the additional structure on a general smooth manifold that we will be concerned with throughout our study of Riemannian manifolds.
 
 **Definition.** A *Riemannian metric* on a smooth manifold $M$ is a smooth $2$-tensor field $g \in \mathcal{T}^2(M)$ that is symmetric and positive-definite.
 
@@ -33,7 +33,7 @@ With this choice, $g_p$ is symmetric and positive-definite.
 
 Now, observe that since the $\left\\{U_p\right\\}$ form an open cover of $M$, we can find a partition of unity $\left\\{\psi_p\right\\}$ subordinate to the cover.
 Since the support of any $\psi_p$ is contained in $U_p$, $\psi_pg_p$ is a smooth $2$-field on all of $M$, taking $g_p$ to be zero outside $U_p$.
-Then, define $g_p$ as
+Then, define $g$ as
 
 $$g = \sum_{p \in M}{\psi_pg_p}.$$
 
