@@ -1,6 +1,6 @@
 ---
-site.title: Definitions and Constructions Associated with Riemannian Metrics
-site.math: true
+title: Definitions and Constructions Associated with Riemannian Metrics
+math: true
 ---
 
 Testing math:
