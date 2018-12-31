@@ -1,6 +1,6 @@
 ### About Me
 
-<img style="float: right;" width="250" src="images/profile.jpg"/>
+<img style="float: right;" width="300" src="images/profile.jpg"/>
 
 I am a fourth-year undergraduate student at UC Berkeley, pursuing a degree in Electrical Engineering and Computer Sciences.
 
