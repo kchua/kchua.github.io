@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kurtland Chua
+math: false
 ---
 
 ## About Me
@@ -45,6 +46,6 @@ title: Kurtland Chua
 
 * *NVIDIA Pioneer Award* (2018). Awarded for *Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models* at NeurIPS 2018.  
 * *Phi Beta Kappa Honors Society* (2018). Inducted as a junior.  
-* *Dean's Honors List* for Fall '15, Spring 16', Fall '16, Spring '17, Spring '18.  
+* *Dean's Honors List* for Fall '15, Spring '16, Fall '16, Spring '17, Spring '18.  
 * *Quantedge Award for Academic Excellence* (2018). Awarded to students of senior standing with a 4.0 GPA.  
 * *Kraft Award for Freshmen* (2015). Awarded to students who earn a 4.0 GPA during their first semester at UC Berkeley.  
