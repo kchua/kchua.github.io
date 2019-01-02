@@ -148,14 +148,14 @@ For any $p \in M$ and $v \in T_pM$, we can obtain a covector $v^\flat$ by defini
 In local coordinates, we can write this covector as
 
 \[
-  v^\flat = (v^\flat)_ i \mathrm{d}x^i, \quad \text{where} \quad (v^\flat)_ i = g_{ij}v^i
+  v^\flat = (v^\flat)_ i \mathrm{d}x^i, \quad \text{where} \quad (v^\flat)_ i = g_{ij}v^i.
 \]
 
 We have, in effect, *lowered* the index $i$, thus the name (and the flat notation).
 
 Naturally, we can ask if an inverse operation exists.
 First, observe that the action of lowering an index is linear, given by the positive-definite matrix $(g_{ij})$.
-Thus, if we let $g^{ij} = (g_{ij})^{-1}_{ij}$, then for any $p \in M$ and $\omega \in T_p^* M$, we can define a tangent vector $v$ as
+Thus, if we let $g^{ij} = (g_{ij})^{-1}_{ij}$, then for any $p \in M$ and $\omega \in T_p^* M$, we can define a tangent vector $\omega^\sharp$ as
 
 \[
   \omega^\sharp = (\omega^\sharp)^i\frac{\partial}{\partial x^i}, \quad \text{where} \quad (\omega^\sharp)^i = g^{ij}\omega_j.
