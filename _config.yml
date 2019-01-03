@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: Kurtland Chua
 repository: kchua/kchua.github.io
+google_analytics: UA-131690212-1
 plugins:
   - jekyll-seo-tag
