@@ -168,4 +168,55 @@ Although the differential $df$ of a function $f \in C^\infty(M)$ is naturally a 
 
 Note that the idea of lowering and raising indices can be extended to higher-order (mixed) tensors.
 
-*To be continued!*
+### Inner Products of Tensors
+
+As defined above, the Riemannian metric gives us an inner product on each tangent space.
+In fact, the Riemannian metric gives rise to an inner product on tensor bundles as well.
+Given a tensor bundle $E$ on $M$, a *fiber metric* on $E$ is a smoothly-varying inner product on each fiber.
+
+**Lemma.** *Let $g$ be a Riemannian metric on a manifold $M$. Then, there exists a unique fiber metric on each tensor bundle $T_l^kM$ with the property that if $(E_1, \dots, E_n)$ is an orthonormal basis for $T_pM$ and $(\phi_1, \dots, \phi_n)$ is the corresponding dual basis, then the set*
+
+\[
+  \left\\{E_{i_1} \otimes \dots \otimes E_{i_k} \otimes \phi^{j_1} \otimes \dots \otimes \phi^{j_l} \middle| 1 \leq i_1, \dots, i_k, j_1, \dots, j_l \leq n\right\\}
+\]
+
+*forms an orthonormal basis for $T_l^k(T_pM)$. In fact, the desired inner product can be described in local coordinates as*
+
+\[
+  \left\langle F, G\right\rangle = g^{i_1r_1}\cdots g^{i_kr_k}g_{j_1s_2}\cdots g_{j_ls_l}F_{i_1\dots i_k}^{j_1\dots j_l}G_{r_1\dots r_k}^{s_1\dots s_l}.
+\]
+
+*Proof.* Choose $p \in M$, and find local coordinates $(x^1, \dots, x^n)$.
+Let $(\partial_1, \dots, \partial_n)$ denote the corresponding basis of tangent vectors, and let the corresponding dual basis be $(\mathrm{d}x^1, \dots, \mathrm{d}x^n)$.
+Furthermore, let $T$ denote the change of basis matrix from $(\partial_1, \dots, \partial_2)$ to $(E_1, \dots, E_n)$, so that $E_i = T_i^jE_j$.
+It can be easily verified that if $S = T^{-1}$, then $\phi^i = S^i_j\mathrm{d}x^j$.
+Now, from the assumption, we have that
+
+\[
+  g_{kl}T_i^kT_j^l = \delta_{ij} \implies g_{nl}T_j^l = g_{kl}\delta_n^kT_j^l = S_n^i\delta_{ij} = S_n^j \implies T_j^m = \delta_{ml}T_j^l = g^{mn}S_n^j \implies g^{mn}S_m^iS_n^j = \delta_{ij}. \tag{$1$}
+\]
+
+Finally, observe that by the multilinearity of the tensor product,
+
+\[
+  E_{i_1} \otimes \dots \otimes E_{i_k} \otimes \phi^{j_1} \otimes \dots \otimes \phi^{j_l} = T_{i_1}^{s_1}\cdots T_{i_k}^{s_k}S_{r_1}^{j_1}\cdots S_{r_l}^{j_l}\left(\partial_{s_1} \otimes \dots \otimes \partial_{s_k} \otimes \mathrm{d}x^{r_1} \otimes \dots \otimes \mathrm{d}x^{r_l}\right).
+\]
+
+It follows that the inner product simply decomposes as the product of the individual inner products.
+This is a well-defined operation, because the operation is completely determined by its values on the given basis above, which is invariant under the choice of local coordinates.
+
+\[
+  \tag*{$\blacksquare$}
+\]
+
+After reading through that proof, I hope you appreciate this meme as much as I do!
+
+<center>  
+  <div class="center-image">
+    <img src="/images/index-meme.jpg" style="display: block; width: 100%; margin: auto;"/>
+  </div>
+  That was a <em>lot</em> of index manipulations.<br>
+  (Source: Mathematical Mathematics Memes)
+</center>
+
+*To be continued! (Last update: 01/04/2019)*

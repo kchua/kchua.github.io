@@ -380,6 +380,22 @@ a {
   }
 }
 
+.center-image {
+  padding-bottom: 0.5em;
+
+  @include large {
+    width: 50%;
+  }
+
+  @include medium {
+    width: 75%;
+  }
+
+  @include small {
+    width: 100%;
+  }
+}
+
 .buttons {
   padding-top: 1em;
 }
