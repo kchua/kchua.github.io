@@ -399,3 +399,13 @@ a {
 .buttons {
   padding-top: 1em;
 }
+
+.disp-math {
+  padding: 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+
+  .MJXc-display {
+    margin: 0;
+  }
+}

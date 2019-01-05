@@ -33,9 +33,11 @@ The following proposition demonstrates that in fact, *every* smooth manifold can
 *Proof.* For every $p \in M$, find a coordinate chart $(U_p, \phi_p)$ containing $p$.
 Then, we can locally define a smooth $2$-tensor field $g_p \in \mathcal{T}^2(U_p)$ by defining
 
+<div class="disp-math">
 \[
   g_p = F_{ij}\mathrm{d}x^i \otimes \mathrm{d}x^j,
 \]
+</div>
 
 where $(F_{ij})$ is a positive-definite matrix.
 With this choice, $g_p$ is symmetric and positive-definite.
@@ -44,27 +46,33 @@ Now, observe that since the $\left\\{U_p\right\\}$ form an open cover of $M$, we
 Since the support of any $\psi_p$ is contained in $U_p$, $\psi_pg_p$ is a smooth $2$-field on all of $M$, taking $g_p$ to be zero outside $U_p$.
 Then, define $g$ as
 
+<div class="disp-math">
 \[
   g = \sum_{p \in M}{\psi_pg_p}.
 \]
+</div>
 
 This is a well-defined sum throughout the manifold as the set of supports is locally finite.
 Furthermore, $g$ is symmetric since every $g_p$ has the same property, and $g$ is positive-definite since every $g_p$ is positive definite and every $p \in M$ is contained in one of the supports.
 
 Thus, $g$ is a Riemannian metric, and $(M, g)$ is a Riemannian manifold.
 
+<div class="disp-math">
 \[
   \tag*{$\blacksquare$}
 \]
+</div>
 
 If we have two Riemannian manifolds $(M, g), (\tilde{M}, \tilde{g})$, as well as a diffeomorphism $\phi: M \to \tilde{M}$, then we say that $\phi$ is an *isometry* if $\phi^* \tilde{g} = g$.
 Riemannian geometry is concerned with the study of properties that are preserved under these isometries.
 
 Observe that as a consequence of the symmetry of the metric, we have that in local coordinates,
 
+<div class="disp-math">
 \[
   g = g_{ij}\mathrm{d}x^i \mathrm{d}x^j
 \]
+</div>
 
 ### Derived Metrics
 
@@ -81,9 +89,11 @@ Using the identification of the tangent vectors of $N$ with the tangent vectors 
 If $(M_1, g_1), (M_2, g_2)$ are Riemannian manifolds, then on the product manifold $M_1 \times M_2$, we can obtain the natural identification of tangent spaces $T_{(p, q)}(M_1 \times M_2) \cong T_pM_1 \oplus T_qM_2$.
 Consequently, we can define a natural metric $g$ on the product as
 
+<div class="disp-math">
 \[
   g(X_1 + X_2, Y_1 + Y_2) = g_1(X_1, Y_1) + g_2(X_2, Y_2),
 \]
+</div>
 
 where $X_1, Y_1 \in T_pM_1$ and $X_2, Y_2 \in T_qM_2$.
 
@@ -98,15 +108,19 @@ The metric $\tilde{g}$ is often referred to as a *covering metric*, and $\pi$ is
 
 *Proof.* Using properties of pullbacks, we have that for any deck transformation $\phi: M \to M$,
 
+<div class="disp-math">
 \[
   \tilde{g} = \pi^* g = (\pi \circ \phi)^* g = \phi^* \pi^* g = \phi^* \tilde{g},
 \]
+</div>
 
 proving the desired claim.
 
+<div class="disp-math">
 \[
   \tag*{$\blacksquare$}
 \]
+</div>
 
 The proposition above has the following natural converse.
 
@@ -121,16 +135,20 @@ To see that this is well-defined, consider another component $V'$.
 Then, since the cover is normal, there exists a deck transformation $\rho$ taking $V$ to $V'$.
 Since $g$ is invariant under all deck transformations,
 
+<div class="disp-math">
 \[
   \left(\pi_{V'}^{-1}\right)^* g = \left(\rho \circ \pi_V^{-1}\right)^* g = \left(\pi_V^{-1}\right)^* \rho^* g = \left(\pi_V^{-1}\right)^* g.
 \]
+</div>
 
 Thus, we have a well-defined Riemannian metric on an open neighborhood of every point.
 These local metrics agree on overlaps, and thus by the gluing lemma, we obtain a global Riemannian metric $\tilde{g}$ on all of $N$.
 
+<div class="disp-math">
 \[
   \tag*{$\blacksquare$}
 \]
+</div>
 
 ## Constructions
 
@@ -141,15 +159,19 @@ Let's look at what we can do once we have a Riemannian metric on a smooth manifo
 A Riemannian metric allows us to convert tangent vectors into tangent covectors and vice versa.
 For any $p \in M$ and $v \in T_pM$, we can obtain a covector $v^\flat$ by defining
 
+<div class="disp-math">
 \[
   v^\flat(w) = g_p(v, w).
 \]
+</div>
 
 In local coordinates, we can write this covector as
 
+<div class="disp-math">
 \[
   v^\flat = (v^\flat)_ i \mathrm{d}x^i, \quad \text{where} \quad (v^\flat)_ i = g_{ij}v^i.
 \]
+</div>
 
 We have, in effect, *lowered* the index $i$, thus the name (and the flat notation).
 
@@ -157,9 +179,11 @@ Naturally, we can ask if an inverse operation exists.
 First, observe that the action of lowering an index is linear, given by the positive-definite matrix $(g_{ij})$.
 Thus, if we let $g^{ij} = (g_{ij})^{-1}_{ij}$, then for any $p \in M$ and $\omega \in T_p^* M$, we can define a tangent vector $\omega^\sharp$ as
 
+<div class="disp-math">
 \[
   \omega^\sharp = (\omega^\sharp)^i\frac{\partial}{\partial x^i}, \quad \text{where} \quad (\omega^\sharp)^i = g^{ij}\omega_j.
 \]
+</div>
 
 Thus, the operation corresponds to *raising* an index, and thus the sharp notation.
 
@@ -176,15 +200,19 @@ Given a tensor bundle $E$ on $M$, a *fiber metric* on $E$ is a smoothly-varying 
 
 **Lemma.** *Let $g$ be a Riemannian metric on a manifold $M$. Then, there exists a unique fiber metric on each tensor bundle $T_l^kM$ with the property that if $(E_1, \dots, E_n)$ is an orthonormal basis for $T_pM$ and $(\phi_1, \dots, \phi_n)$ is the corresponding dual basis, then the set*
 
+<div class="disp-math">
 \[
-  \left\\{E_{i_1} \otimes \dots \otimes E_{i_k} \otimes \phi^{j_1} \otimes \dots \otimes \phi^{j_l} \middle| 1 \leq i_1, \dots, i_k, j_1, \dots, j_l \leq n\right\\}
+  \left\{E_{i_1} \otimes \dots \otimes E_{i_k} \otimes \phi^{j_1} \otimes \dots \otimes \phi^{j_l} \middle| 1 \leq i_1, \dots, i_k, j_1, \dots, j_l \leq n\right\}
 \]
+</div>
 
 *forms an orthonormal basis for $T_l^k(T_pM)$. In fact, the desired inner product can be described in local coordinates as*
 
+<div class="disp-math">
 \[
   \left\langle F, G\right\rangle = g^{i_1r_1}\cdots g^{i_kr_k}g_{j_1s_2}\cdots g_{j_ls_l}F_{i_1\dots i_k}^{j_1\dots j_l}G_{r_1\dots r_k}^{s_1\dots s_l}.
 \]
+</div>
 
 *Proof.* Choose $p \in M$, and find local coordinates $(x^1, \dots, x^n)$.
 Let $(\partial_1, \dots, \partial_n)$ denote the corresponding basis of tangent vectors, and let the corresponding dual basis be $(\mathrm{d}x^1, \dots, \mathrm{d}x^n)$.
@@ -192,22 +220,28 @@ Furthermore, let $T$ denote the change of basis matrix from $(\partial_1, \dots,
 It can be easily verified that if $S = T^{-1}$, then $\phi^i = S^i_j\mathrm{d}x^j$.
 Now, from the assumption, we have that
 
+<div class="disp-math">
 \[
   g_{kl}T_i^kT_j^l = \delta_{ij} \implies g_{nl}T_j^l = g_{kl}\delta_n^kT_j^l = S_n^i\delta_{ij} = S_n^j \implies T_j^m = \delta_{ml}T_j^l = g^{mn}S_n^j \implies g^{mn}S_m^iS_n^j = \delta_{ij}. \tag{$1$}
 \]
+</div>
 
 Finally, observe that by the multilinearity of the tensor product,
 
+<div class="disp-math">
 \[
   E_{i_1} \otimes \dots \otimes E_{i_k} \otimes \phi^{j_1} \otimes \dots \otimes \phi^{j_l} = T_{i_1}^{s_1}\cdots T_{i_k}^{s_k}S_{r_1}^{j_1}\cdots S_{r_l}^{j_l}\left(\partial_{s_1} \otimes \dots \otimes \partial_{s_k} \otimes \mathrm{d}x^{r_1} \otimes \dots \otimes \mathrm{d}x^{r_l}\right).
 \]
+</div>
 
 It follows that the inner product simply decomposes as the product of the individual inner products.
 This is a well-defined operation, because the operation is completely determined by its values on the given basis above, which is invariant under the choice of local coordinates.
 
+<div class="disp-math">
 \[
   \tag*{$\blacksquare$}
 \]
+</div>
 
 After reading through that proof, I hope you appreciate this meme as much as I do!
 
