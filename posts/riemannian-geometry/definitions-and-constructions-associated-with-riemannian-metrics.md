@@ -222,7 +222,7 @@ Now, from the assumption, we have that
 
 <div class="disp-math">
 \[
-  g_{kl}T_i^kT_j^l = \delta_{ij} \implies g_{nl}T_j^l = g_{kl}\delta_n^kT_j^l = S_n^i\delta_{ij} = S_n^j \implies T_j^m = \delta_{ml}T_j^l = g^{mn}S_n^j \implies g^{mn}S_m^iS_n^j = \delta_{ij}. \tag{$1$}
+  g_{kl}T_i^kT_j^l = \delta_{ij} \implies g_{nl}T_j^l = g_{kl}\delta_n^kT_j^l = S_n^i\delta_{ij} = S_n^j \implies T_j^m = \delta_{ml}T_j^l = g^{mn}S_n^j \implies g^{mn}S_m^iS_n^j = \delta_{ij}.
 \]
 </div>
 
