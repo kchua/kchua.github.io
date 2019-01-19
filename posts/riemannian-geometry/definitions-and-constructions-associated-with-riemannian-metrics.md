@@ -76,7 +76,7 @@ Observe that as a consequence of the symmetry of the metric, we have that in loc
 
 ### Derived Metrics
 
-Now that we've defined what a Riemannian metric, let's look at how we can derive new metrics from metrics on other spaces.
+Now that we've defined Riemannian metrics, let's look at how we can derive new metrics from metrics on other spaces.
 
 #### Induced Metric
 
