@@ -253,4 +253,59 @@ After reading through that proof, I hope you appreciate this meme as much as I d
   (Source: Mathematical Mathematics Memes)
 </center>
 
-*To be continued! (Last update: 01/04/2019)*
+## Problems
+
+### 3.10
+
+Suppose $\tilde{M}$ and $M$ are smooth manifolds, and $\pi: \tilde{M} \to M$ is a surjective immersion.
+
+> (a) Show that any smooth vector field $W$ on $\tilde{M}$ can be written uniquely as $W = W^H + W^V$, where $W^H$ is horizontal, $W^V$ is vertical, and both $W^H$ and $W^V$ are smooth.
+
+*Proof.* Let $p \in M$.
+Then, by the rank theorem, there exists a chart $(U, \phi)$, $(V, \psi)$ containing $p$ and $\pi(p)$, respectively, such that locally, $\pi$ can be written as
+
+<div class="disp-math">
+\[
+  \pi(x^1, \dots, x^n) = (x^1, \dots, x^m),
+\]
+</div>
+
+where $n$ and $m$ are the dimensionalities of $\tilde{M}$ and $M$, respectively.
+In particular, observe that
+
+<div class="disp-math">
+\[
+  \mathrm{d}\pi\left(\frac{\partial}{\partial x_i}\right) = 0 \quad \text{if and only if} \quad i > m,
+\]
+</div>
+
+and
+
+<div class="disp-math">
+\[
+  \mathrm{d}\pi\left(\frac{\partial}{\partial x_i}\right) = \frac{\partial}{\partial y_i} \quad \text{for} \quad i \leq m.
+\]
+</div>
+
+Therefore, locally, the vertical space can be described as the span of $\left\\{\partial/\partial x_{m + 1}, \dots, \partial/\partial x_n\right\\}$.
+Consequently, since all component functions of $W$ are smooth, $W^V$ is smooth, and thus $W^H = W - W^V$ is smooth.
+The uniqueness of the decomposition follows easily from the fact that each tangent space decomposes into the orthogonal direct sum of the vertical and horizontal space.
+
+<div class="disp-math">
+\[
+  \tag*{$\blacksquare$}
+\]
+</div>
+
+> (b) If $X$ is a smooth vector field on $M$, show that there is a unique smooth horizontal vector field $\tilde{X}$ on $\tilde{M}$, called the *horizontal lift* of $X$, that is $\pi$-related to $X$.
+
+<!-- *Proof.* By the local section theorem for submersions, for every $p \in M$, there exists a neighborhood $U_p \subseteq M$ such that there exists a function $\rho_p: U \to \tilde{M}$ with the property that $\pi \circ \rho_p: M \to M$ is the identity map and $p$ is in the image of $\rho_p$.
+Define $\tilde{X}$ to be -->
+
+<!-- <div class="disp-math">
+\[
+  \tilde{X}_p = \rho_p_*()
+\]
+</div> -->
+
+*To be continued! (Last update: 02/03/2019)*
