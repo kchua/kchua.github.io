@@ -262,7 +262,7 @@ Suppose $\tilde{M}$ and $M$ are smooth manifolds, and $\pi: \tilde{M} \to M$ is 
 > (a) Show that any smooth vector field $W$ on $\tilde{M}$ can be written uniquely as $W = W^H + W^V$, where $W^H$ is horizontal, $W^V$ is vertical, and both $W^H$ and $W^V$ are smooth.
 
 *Proof.* Let $p \in M$.
-Then, by the rank theorem, there exists a chart $(U, \phi)$, $(V, \psi)$ containing $p$ and $\pi(p)$, respectively, such that locally, $\pi$ can be written as
+Then, by the rank theorem, there exists charts $(U, \phi)$, $(V, \psi)$ containing $p$ and $\pi(p)$, respectively, such that locally, $\pi$ can be written as
 
 <div class="disp-math">
 \[

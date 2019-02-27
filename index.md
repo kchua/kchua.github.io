@@ -35,13 +35,14 @@ math: false
 * [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114).  
   [arXiv](https://arxiv.org/abs/1805.12114) | [website](https://sites.google.com/view/drl-in-a-handful-of-trials/home)  | [code](https://github.com/kchua/handful-of-trials)  
   **Kurtland Chua**, Roberto Calandra, Rowan McAllister, Sergey Levine.  
-  *Neural Information Processing Systems (NeurIPS) Conference 2018 (Spotlight presentation, ~4% of accepted papers).*  
+  *Neural Information Processing Systems (NeurIPS) Conference 2018 ([Spotlight presentation](https://youtu.be/6LuK72GCCnI?t=3483), ~4% of accepted papers).*  
   *ICML 2018 Workshop on Planning and Learning (Oral presentation)*.  
   *ICML 2018 Workshop on Prediction and Generative Modeling in Reinforcement Learning.*  
 
 ## Talks
 
 * "Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models." *Bay Area Machine Learning Symposium (Baylearn)*. October 2018.
+  [video](https://www.youtube.com/watch?v=pq8xNCETPHU)
 
 ## Honors
 
