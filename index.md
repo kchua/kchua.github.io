@@ -41,7 +41,7 @@ math: false
 
 ## Talks
 
-* "Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models." *Bay Area Machine Learning Symposium (Baylearn)*. October 2018.
+* "Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models." *Bay Area Machine Learning Symposium (Baylearn)*. October 2018.  
   [video](https://www.youtube.com/watch?v=pq8xNCETPHU)
 
 ## Honors
