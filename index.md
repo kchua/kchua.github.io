@@ -14,12 +14,13 @@ math: false
   <div>
     <p>
       I am a fourth-year undergraduate student at the University of California, Berkeley, pursuing a degree in Electrical Engineering and Computer Sciences.
-    </p>
-    <p>
       I currently work in Prof. Sergey Levine's lab as an undergraduate researcher, working on model-based reinforcement learning together with my mentors Roberto Calandra and Rowan McAllister.
     </p>
     <p>
-      My interests include reinforcement learning, machine learning, as well as pure mathematics.
+      Starting Fall 2019, I will be attending Princeton University as a PhD student in Computer Science.
+    </p>
+    <p>
+      My interests include reinforcement learning, theoretical machine learning, as well as mathematics.
     </p>
     <p>
       This semester, I am a TA for EECS 126, an upper-division course on probability and random processes.
@@ -35,17 +36,16 @@ math: false
 * [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114).  
   [arXiv](https://arxiv.org/abs/1805.12114) | [website](https://sites.google.com/view/drl-in-a-handful-of-trials/home)  | [code](https://github.com/kchua/handful-of-trials)  
   **Kurtland Chua**, Roberto Calandra, Rowan McAllister, Sergey Levine.  
-  *Neural Information Processing Systems (NeurIPS) Conference 2018 ([Spotlight presentation](https://youtu.be/6LuK72GCCnI?t=3483), ~4% of accepted papers).*  
-  *ICML 2018 Workshop on Planning and Learning (Oral presentation)*.  
-  *ICML 2018 Workshop on Prediction and Generative Modeling in Reinforcement Learning.*  
+  *NeurIPS 2018 ([Spotlight presentation](https://youtu.be/6LuK72GCCnI?t=3483), ~4% of accepted papers).*  
 
 ## Talks
 
 * "Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models." *Bay Area Machine Learning Symposium (Baylearn)*. October 2018.
   [video](https://www.youtube.com/watch?v=pq8xNCETPHU)
 
-## Honors
+## Honors and Awards
 
+* *National Science Foundation Graduate Research Fellowship (2019)*.
 * *UC Berkeley EECS Honors Program (2019)*. Pursuing a concentration in Mathematics.
 * *NVIDIA Pioneer Award (2018)*. Awarded for *Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models* at NeurIPS 2018.  
 * *Phi Beta Kappa Honors Society (2018)*. Inducted as a junior.  
