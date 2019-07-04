@@ -13,20 +13,18 @@ math: false
   </div>
   <div>
     <p>
-      I am a fourth-year undergraduate student at the University of California, Berkeley, pursuing a degree in Electrical Engineering and Computer Sciences.
-      I currently work in Prof. Sergey Levine's lab as an undergraduate researcher, working on model-based reinforcement learning together with my mentors Roberto Calandra and Rowan McAllister.
-    </p>
-    <p>
+      I am currently a research intern at Facebook AI Research for the summer.
       Starting Fall 2019, I will be attending Princeton University as a PhD student in Computer Science.
     </p>
     <p>
-      My interests include reinforcement learning, theoretical machine learning, as well as mathematics.
+      I recently graduated from the University of California, Berkeley, where I received my degree in Electrical Engineering and Computer Sciences.
+      During my time at Berkeley, I was an undergraduate researcher in Prof. Sergey Levine's lab, where I worked on model-based reinforcement learning together with Roberto Calandra and Rowan McAllister.
     </p>
     <p>
-      This semester, I am a TA for EECS 126, an upper-division course on probability and random processes.
+      I am broadly interested in exploring theoretical machine learning and deep learning, and understanding how insights from these areas could be leveraged to both better understand existing learning algorithms and drive further developments.
     </p>
     <p>
-      You may reach me at kchua (at) berkeley (dot) edu.
+      You may reach me at kchua (at) princeton (dot) edu.
     </p>
   </div>
 </div>
