@@ -9,16 +9,16 @@ math: false
 
 <div>
   <div class="col" style="float: right;">
-    <img class="prof-im" src="images/new_profile.jpg" style="display: block; width: 80%; margin: auto;"/>
+    <img class="prof-im" src="images/profile.jpg" style="display: block; width: 80%; margin: auto;"/>
   </div>
   <div>
     <p>
-      I am currently a research intern at Facebook AI Research for the summer.
-      Starting Fall 2019, I will be attending Princeton University as a PhD student in Computer Science.
+      I am currently a PhD student in Computer Science at Princeton University, advised by Jason Lee.
     </p>
     <p>
-      I recently graduated from the University of California, Berkeley, where I received my degree in Electrical Engineering and Computer Sciences.
+      I have previously studied at the University of California, Berkeley, where I received my degree in Electrical Engineering and Computer Sciences.
       During my time at Berkeley, I was an undergraduate researcher in Prof. Sergey Levine's lab, where I worked on model-based reinforcement learning together with Roberto Calandra and Rowan McAllister.
+      I have also been involved with Facebook AI Research as a research intern.
     </p>
     <p>
       I am broadly interested in exploring theoretical machine learning and deep learning, and understanding how insights from these areas could be leveraged to both better understand existing learning algorithms and drive further developments.
@@ -50,6 +50,7 @@ math: false
 ## Honors and Awards
 
 * *National Science Foundation Graduate Research Fellowship (2019)*.
+* *Gordon Y.S. Wu Fellowship in Engineering (2019)*.
 * *EECS Major Citation (2019)*.
 * *UC Berkeley EECS Honors Program (2019)*. Pursuing a concentration in Mathematics.
 * *NVIDIA Pioneer Award (2018)*. Awarded for *Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models* at NeurIPS 2018.  
