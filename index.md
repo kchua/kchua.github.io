@@ -9,7 +9,7 @@ math: false
 
 <div>
   <div class="col" style="float: right;">
-    <img class="prof-im" src="images/profile.jpg" style="display: block; width: 90%; margin: auto;"/>
+    <img class="prof-im" src="images/profile.jpg" style="display: block; width: 80%; margin: auto;"/>
   </div>
   <div>
     <p>
