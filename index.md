@@ -13,7 +13,7 @@ math: false
   </div>
   <div>
     <p>
-      I am currently a PhD student in Computer Science at Princeton University, advised by <a href="https://jasondlee88.github.io/">Jason D. Lee</a>.
+      I am currently a PhD candidate in Computer Science at Princeton University, advised by <a href="https://jasondlee88.github.io/">Jason D. Lee</a>.
     </p>
     <p>
       I have previously studied at the University of California, Berkeley, where I received my undergraduate degree in Electrical Engineering and Computer Sciences.
