@@ -13,18 +13,19 @@ math: false
   </div>
   <div>
     <p>
-      I am currently a PhD student in Computer Science at Princeton University, advised by Jason Lee.
+      I am currently a PhD student in Computer Science at Princeton University, advised by <a href="https://jasondlee88.github.io/">Jason D. Lee</a>.
     </p>
     <p>
-      I have previously studied at the University of California, Berkeley, where I received my degree in Electrical Engineering and Computer Sciences.
-      During my time at Berkeley, I was an undergraduate researcher in Prof. Sergey Levine's lab, where I worked on model-based reinforcement learning together with Roberto Calandra and Rowan McAllister.
+      I have previously studied at the University of California, Berkeley, where I received my undergraduate degree in Electrical Engineering and Computer Sciences.
+      There, I was an undergraduate researcher in Prof. Sergey Levine's lab, working on model-based reinforcement learning together with Roberto Calandra and Rowan McAllister.
       I have also been involved with Facebook AI Research as a research intern.
     </p>
     <p>
-      I am broadly interested in exploring theoretical machine learning and deep learning, and understanding how insights from these areas could be leveraged to both better understand existing learning algorithms and drive further developments.
+      I am broadly interested in exploring theoretical machine learning.
+      Recently, I have been focusing on meta-learning and related areas, aiming to formalize structures shared among tasks that allow for sample-efficient learning.
     </p>
     <p>
-      You may reach me at kchua (at) princeton (dot) edu.
+       You can reach me at kchua (at) princeton (dot) edu.
     </p>
   </div>
 </div>
@@ -56,4 +57,4 @@ math: false
 * *NVIDIA Pioneer Award (2018)*. Awarded for *Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models* at NeurIPS 2018.  
 * *Phi Beta Kappa Honors Society (2018)*. Inducted as a junior.  
 * *Dean's Honors List* for Fall '15, Spring '16, Fall '16, Spring '17, Spring '18, Fall '18.  
-* *Quantedge Award for Academic Excellence (2018)*. Awarded to students of senior standing with a 4.0 GPA. 
+* *Quantedge Award for Academic Excellence (2018)*. Awarded to students of senior standing with a 4.0 GPA.
