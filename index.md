@@ -32,8 +32,16 @@ math: false
 
 ## Publications
 
-* [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114).  
-  [arXiv](https://arxiv.org/abs/1805.12114) | [website](https://sites.google.com/view/drl-in-a-handful-of-trials/home)  | [code](https://github.com/kchua/handful-of-trials)  
+* [How Fine-Tuning Allows for Effective Meta-Learning.](https://arxiv.org/abs/2105.02221)  
+  **Kurtland Chua**, Qi Lei, Jason D. Lee.  
+  *NeurIPS 2021.*
+
+* [On the Importance of Hyperparameter Optimization for Model-based Reinforcement Learning.](https://arxiv.org/abs/2102.13651)  
+  Baohe Zhang, Raghu Rajan, Luis Pineda, Nathan Lambert, André Biedenkapp, **Kurtland Chua**, Frank Hutter, Roberto Calandra.  
+  *AISTATS 2021.*
+
+* [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models.](https://arxiv.org/abs/1805.12114)  
+  [website](https://sites.google.com/view/drl-in-a-handful-of-trials/home)  | [code](https://github.com/kchua/handful-of-trials)  
   **Kurtland Chua**, Roberto Calandra, Rowan McAllister, Sergey Levine.  
   *NeurIPS 2018 ([Spotlight presentation](https://youtu.be/6LuK72GCCnI?t=3483), ~4% of submitted papers).*  
 
