@@ -33,7 +33,7 @@ math: false
 ## Publications and Preprints
 
 * [Provable Hierarchy-Based Meta-Reinforcement Learning](https://arxiv.org/abs/2110.09507)  
-  **Kurtland Chua**, Qi Lei, Jason D. Lee.
+  **Kurtland Chua**, Qi Lei, Jason D. Lee.  
   *Under review.*
 
 * [How Fine-Tuning Allows for Effective Meta-Learning.](https://arxiv.org/abs/2105.02221)  
