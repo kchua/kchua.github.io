@@ -32,7 +32,7 @@ math: false
 
 ## Publications and Preprints
 
-* [Provable Hierarchy-Based Meta-Reinforcement Learning](https://arxiv.org/abs/2110.09507)
+* [Provable Hierarchy-Based Meta-Reinforcement Learning](https://arxiv.org/abs/2110.09507)  
   **Kurtland Chua**, Qi Lei, Jason D. Lee.
   *Under review.*
 
