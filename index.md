@@ -64,7 +64,7 @@ math: false
   *Assistant in Instruction*  
   [Fall 2023](https://www.cs.princeton.edu/courses/archive/fall23/cos240/index.html)
 
-* EECS 126: Probability and Random Processes, UC Berkeley
+* EECS 126: Probability and Random Processes, UC Berkeley  
   *Undergraduate Student Instructor (uGSI)*  
   [Spring 2019](https://inst.eecs.berkeley.edu/~ee126/sp19/) | [Fall 2018](https://inst.eecs.berkeley.edu/~ee126/fa18/)
 
