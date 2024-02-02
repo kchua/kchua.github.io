@@ -25,7 +25,7 @@ math: false
       Recently, I have been focusing on meta-learning and related areas, aiming to formalize structures shared among tasks that allow for sample-efficient learning.
     </p>
     <p>
-       You can reach me at kchua (at) princeton (dot) edu.
+       You can reach me at kchua (at) princeton (dot) edu. 
     </p>
   </div>
 </div>
