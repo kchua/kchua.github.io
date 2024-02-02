@@ -25,7 +25,7 @@ math: false
       Recently, I have been focusing on meta-learning and related areas, aiming to formalize structures shared among tasks that allow for sample-efficient learning.
     </p>
     <p>
-       You can reach me at kchua (at) princeton (dot) edu. 
+       You can reach me at kchua (at) princeton (dot) edu.
     </p>
   </div>
 </div>
@@ -56,12 +56,12 @@ math: false
 
 ## Teaching
 
-* COS 435: Introduction to Reinforcement Learning, Princeton
-  *Assistant in Instruction*
+* COS 435: Introduction to Reinforcement Learning, Princeton  
+  *Assistant in Instruction*  
   [Spring 2024](https://ben-eysenbach.github.io/intro-rl/)
 
-* COS 240: Reasoning about Computation, Princeton
-  *Assistant in Instruction*
+* COS 240: Reasoning about Computation, Princeton  
+  *Assistant in Instruction*  
   [Fall 2023](https://www.cs.princeton.edu/courses/archive/fall23/cos240/index.html)
 
 * EECS 126: Probability and Random Processes, UC Berkeley
