@@ -9,11 +9,11 @@ math: false
 
 <div>
   <div class="col" style="float: right;">
-    <img class="prof-im" src="images/profile.jpg" style="display: block; width: 80%; margin: auto;"/>
+    <img class="prof-im" src="images/new-profile.jpg" style="display: block; width: 80%; margin: auto;"/>
   </div>
   <div>
     <p>
-      I am currently a PhD candidate in Computer Science at Princeton University, advised by <a href="https://jasondlee88.github.io/">Jason D. Lee</a>.
+      I am currently a final-year PhD candidate in Computer Science at Princeton University, advised by <a href="https://jasondlee88.github.io/">Jason D. Lee</a>. My research was previously supported by the NSF Graduate Research Fellowship.
     </p>
     <p>
       I have previously studied at the University of California, Berkeley, where I received my undergraduate degree in Electrical Engineering and Computer Sciences.
@@ -34,7 +34,7 @@ math: false
 
 * [Provable Hierarchy-Based Meta-Reinforcement Learning](https://arxiv.org/abs/2110.09507)  
   **Kurtland Chua**, Qi Lei, Jason D. Lee.  
-  *Preprint.*
+  *AISTATS 2023.*
 
 * [How Fine-Tuning Allows for Effective Meta-Learning.](https://arxiv.org/abs/2105.02221)  
   **Kurtland Chua**, Qi Lei, Jason D. Lee.  
@@ -56,7 +56,15 @@ math: false
 
 ## Teaching
 
-* EECS 126: Probability and Random Processes  
+* COS 435: Introduction to Reinforcement Learning, Princeton
+  *Assistant in Instruction*
+  [Spring 2024](https://ben-eysenbach.github.io/intro-rl/)
+
+* COS 240: Reasoning about Computation, Princeton
+  *Assistant in Instruction*
+  [Fall 2023](https://www.cs.princeton.edu/courses/archive/fall23/cos240/index.html)
+
+* EECS 126: Probability and Random Processes, UC Berkeley
   *Undergraduate Student Instructor (uGSI)*  
   [Spring 2019](https://inst.eecs.berkeley.edu/~ee126/sp19/) | [Fall 2018](https://inst.eecs.berkeley.edu/~ee126/fa18/)
 
@@ -65,8 +73,5 @@ math: false
 * *National Science Foundation Graduate Research Fellowship (2019)*.
 * *Gordon Y.S. Wu Fellowship in Engineering (2019)*.
 * *EECS Major Citation (2019)*.
-* *UC Berkeley EECS Honors Program (2019)*. Pursuing a concentration in Mathematics.
 * *NVIDIA Pioneer Award (2018)*. Awarded for *Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models* at NeurIPS 2018.  
-* *Phi Beta Kappa Honors Society (2018)*. Inducted as a junior.  
-* *Dean's Honors List* for Fall '15, Spring '16, Fall '16, Spring '17, Spring '18, Fall '18.  
-* *Quantedge Award for Academic Excellence (2018)*. Awarded to students of senior standing with a 4.0 GPA.
+* *Phi Beta Kappa Honors Society (2018)*. Inducted as a junior.
