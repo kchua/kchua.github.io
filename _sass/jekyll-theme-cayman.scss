@@ -413,13 +413,14 @@ a {
 
 #profile {
   background-image: url('/images/new-profile-copy.png');
-  height: 430px;
+  height: 450px;
   width: 300px;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   margin: auto;
+  background-position: center;
 }
 
-#profile:hover {
+#profile:hover, #profile:active {
   background-image: url('/images/marathonnn.jpeg')
 }
