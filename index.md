@@ -13,24 +13,16 @@ math: false
   </div>
   <div>
     <p>
-      I am currently a final-year PhD candidate in Computer Science at Princeton University, advised by <a href="https://jasondlee88.github.io/">Jason D. Lee</a>. My research was previously supported by the NSF Graduate Research Fellowship.
+      I am currently a research scientist at Meta, where I am working on recommendation systems.
     </p>
     <p>
-      I have previously studied at the University of California, Berkeley, where I received my undergraduate degree in Electrical Engineering and Computer Sciences.
-      There, I was an undergraduate researcher in Prof. Sergey Levine's lab, working on model-based reinforcement learning together with Roberto Calandra and Rowan McAllister.
-      I have also been involved with Facebook AI Research as a research intern.
-    </p>
-    <p>
-      I am broadly interested in exploring theoretical machine learning.
-      Recently, I have been focusing on meta-learning and related areas, aiming to formalize structures shared among tasks that allow for sample-efficient learning.
-    </p>
-    <p>
-       You can reach me at kchua (at) princeton (dot) edu.
+      Previously, I was a PhD student at Princeton University working on theoretical analyses of meta-learning, where I was advised by <a href="https://jasondlee88.github.io/">Jason D. Lee</a>.
+      Before then, I studied EE/CS at UC Berkeley, where I worked on model-based reinforcement learning together with <a href="https://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>, <a href="https://www.robertocalandra.com/about/">Roberto Calandra</a>, and <a href="https://rowanmcallister.github.io">Rowan McAllister</a>.
     </p>
   </div>
 </div>
 
-## Publications and Preprints
+## Publications
 
 * [Provable Hierarchy-Based Meta-Reinforcement Learning](https://arxiv.org/abs/2110.09507)  
   **Kurtland Chua**, Qi Lei, Jason D. Lee.  

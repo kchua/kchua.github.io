@@ -410,3 +410,13 @@ a {
     margin: 0;
   }
 }
+
+#profile {
+  background-image: url('images/new-profile-copy.png');
+  height: 439px;
+  width: 300px;
+}
+
+#profile:hover {
+  background-image: url('images/marathonnn.jpeg')
+}
